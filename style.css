@@ -21,3 +21,7 @@ a {
 h2 {
     color: #ffffff;
 }
+
+blockquote {
+    font-style: italic;
+}
