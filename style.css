@@ -11,6 +11,7 @@ ul {
     border: 1px solid #5f6368;
     border-radius: 8px;
     padding: 32px;
+    color: #bdc1c6;
 }
 
 a {
@@ -23,5 +24,7 @@ h2 > a {
 }
 
 blockquote {
-    font-style: italic;
+    background-color: #2a2b2e;
+    border-radius: 8px;
+    padding: 16px;
 }
